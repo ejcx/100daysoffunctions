@@ -3,4 +3,5 @@ Inspired by [Hilary Hahn's](https://www.instagram.com/violincase/) _One hundred 
 
 I will write one hundred lambda functions over one hundred days.
 
-# 1.
+The functions are divided in to projects.
+
